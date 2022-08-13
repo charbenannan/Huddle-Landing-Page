@@ -5,12 +5,12 @@ https://huddlelanding.000webhostapp.com
 
 Huddle Landing Page
 Live site | Solution | Challenge
+
 Solution for a challenge from Frontendmentor.io
+
 Table of contents
 Overview
 Built with
-Contact
-Overview
 preview screenshot
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
