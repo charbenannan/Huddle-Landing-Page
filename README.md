@@ -20,6 +20,5 @@ You can see a live site at Huddle landing page
 Built with
 Semantic HTML5 markup
 CSS custom properties
-SCSS
 Flexbox
 Mobile-first workflow
